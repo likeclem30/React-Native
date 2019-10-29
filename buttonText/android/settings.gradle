@@ -1,0 +1,3 @@
+rootProject.name = 'buttonText'
+
+include ':app'
